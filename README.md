@@ -9,7 +9,7 @@ Broad Outline of work to be done:
 - [x] Build a basic Model
 - [x] Replicate the results on MNIST dataset
 - [x] Generate an ellipse Dataset with varying eccentricities and semi-major axis (2 degrees of freedoms)
-- [ ] Infogans - try c with 1 dimension and 2 dimension or 3 diemnsion - see what the dimensions capture
+- [ ] Infogans - try c with 1 dimension and 2 dimension or 3 dimension - see what the dimensions capture
 - [ ] Try on some other binary images shape dataset, e.g., Horse shape or zebra shapes
 
 
