@@ -10,10 +10,8 @@ Broad Outline of work to be done:
 - [x] Replicate the results on MNIST dataset
 - [x] Generate an ellipse Dataset with varying eccentricities and semi-major axis (2 degrees of freedoms)
 - [ ] Infogans - try c with 1 dimension and 2 dimension or 3 dimension - see what the dimensions capture
-- [ ] Try on some other binary images shape dataset, e.g., Horse shape or zebra shapes
 
 
 - [ ] Add more references 
-- [ ] Insights - Verify the generalizabilty of the network to other datsets
 - [ ] Report
 - [ ] Presentation
