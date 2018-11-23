@@ -258,9 +258,9 @@ for epoch in range(max_epochs):
   if epoch % 5 == 0:
     G.eval()
     img1, img2, img3 = get_sample_image(z_dim, continuous_dim, G)
-    misc.imsave('sample/InfoGAN_epoch_{}_type1.png'.format(epoch), img1)
-    misc.imsave('sample/InfoGAN_epoch_{}_type2.png'.format(epoch), img2)
-    misc.imsave('sample/InfoGAN_epoch_{}_type3.png'.format(epoch), img3)
+    misc.imsave('Results/InfoGAN_epoch_{}_type1.png'.format(epoch), img1)
+    misc.imsave('Results/InfoGAN_epoch_{}_type2.png'.format(epoch), img2)
+    misc.imsave('Results/InfoGAN_epoch_{}_type3.png'.format(epoch), img3)
       
     G.train()
       
