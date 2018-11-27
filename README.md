@@ -1,4 +1,4 @@
-# CS663-CourseProject
+# InfoGANs
 
 This repository contains the code, results and reports of the paper "InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets". ([Link](https://arxiv.org/pdf/1606.03657.pdf))
 
